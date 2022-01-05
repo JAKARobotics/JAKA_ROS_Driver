@@ -1,0 +1,9 @@
+float32[] pose
+
+# user_num: 0~7
+int16 user_num
+
+---
+
+int16 ret
+string message

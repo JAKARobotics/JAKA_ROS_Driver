@@ -1,3 +1,7 @@
-# JAKA_ROS_Driver
+# JAKAZuRosDriver
 
-JAKA robot ROS Drvier
+to build ros packages
+
+$catkin_make
+
+
